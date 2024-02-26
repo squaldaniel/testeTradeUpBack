@@ -10,4 +10,4 @@ posteriormente rode a aplçicação com o comando:
 ```sh
 php artisan serve
 ```
-Pedimos que mantenha a mesma porta e ip, pois o memso está sendo usado pelo [frontend](https://github.com/squaldaniel/getCepTradeUpFront) para as consultas
+Pedimos que mantenha a mesma porta e ip, pois o mesmo está sendo usado pelo [frontend](https://github.com/squaldaniel/getCepTradeUpFront) para as consultas.
